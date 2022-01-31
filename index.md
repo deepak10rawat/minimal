@@ -4,9 +4,9 @@ National Common Mobility Card (NCMC), is an inter-operable transport cum debit c
 
 > The project involves the development of E-Infrastructure to facilitates NCMC card transactions. The development of electronic terminals for Automated fare collection systems enables public transport operators to accept NCMC card.
 
-[![View_Details](https://github.com/deepak10rawat/minimal/blob/master/assets/img/View_details.png)](https://psuwatch.com/heres-how-bel-is-contributing-to-the-one-nation-one-card-project)
+[![View_Details](assets/img/View_details.png)](https://psuwatch.com/heres-how-bel-is-contributing-to-the-one-nation-one-card-project)
 
-<center><img src="https://github.com/deepak10rawat/minimal/blob/master/assets/img/NCMC.jpg"/></center>
+<center><img src="assets/img/NCMC.jpg"/></center>
 
 
 
