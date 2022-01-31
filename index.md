@@ -28,7 +28,7 @@ MFRS enables soldiers to record, lay and later safely retrieve land mines. The s
 
 [![View_Details](assets/img/View_details.png)](https://www.makeinindiadefence.gov.in/admin/writereaddata/upload/project/prebid_file/Questionnarre_for_GPS_GIS_system.pdf)
 
-<center><img src="assets/img/MFRS.png"/></center>
+<center><img src="assets/img/MFRS.jpg"/></center>
 
 
 
