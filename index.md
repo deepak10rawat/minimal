@@ -6,7 +6,7 @@ National Common Mobility Card (NCMC), is an inter-operable transport cum debit c
 
 [![View_Details](assets/img/View_details.png)](https://psuwatch.com/heres-how-bel-is-contributing-to-the-one-nation-one-card-project)
 
-<center><img src="assets/img/NCMC.jpg"/></center>
+<center><img src="assets/img/NCMC.png"/></center>
 
 
 
