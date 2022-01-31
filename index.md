@@ -28,7 +28,7 @@ MFRS enables soldiers to record, lay and later safely retrieve land mines. The s
 
 [![View_Details](assets/img/View_details.png)](https://www.makeinindiadefence.gov.in/admin/writereaddata/upload/project/prebid_file/Questionnarre_for_GPS_GIS_system.pdf)
 
-<center><img src="assets/img/MFRS.jpg"/></center>
+<center><img src="assets/img/MFRS.png"/></center>
 
 
 
@@ -40,5 +40,5 @@ and provides detection Range upto 8Km Line of Sight.
 
 [![View_Details](assets/img/View_details.png)](https://www.bel-india.in/Products.aspx?MId=13&LId=1&link=67)
 
-<center><img src="assets/img/HHTI-with-LRF.jpg"/></center>
+<center><img src="assets/img/HHTI-with-LRF.png"/></center>
 
