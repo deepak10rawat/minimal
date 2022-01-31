@@ -40,5 +40,5 @@ and provides detection Range upto 8Km Line of Sight.
 
 [![View_Details](assets/img/View_details.png)](https://www.bel-india.in/Products.aspx?MId=13&LId=1&link=67)
 
-<center><img src="assets/img/HHTI-with-LRF.png"/></center>
+<center><img src="assets/img/HHTI-with-LRF.jpg"/></center>
 
