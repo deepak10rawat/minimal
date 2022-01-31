@@ -14,9 +14,9 @@ National Common Mobility Card (NCMC), is an inter-operable transport cum debit c
 A CBTC system is an automatic train control system utilizing high-resolution train location determination, independent from track circuits, continuous, high-capacity, bidirectional train-to-wayside data communications. 
 > Together trainborne and wayside processors capable of implementing automatic train protection (ATP) functions, automatic train operation (ATO) and automatic train supervision (ATS)
 
-[![View_Details](https://github.com/deepak10rawat/minimal/blob/master/assets/img/View_details.png)](http://www.delhimetrorail.com/press_reldetails.aspx?id=Zi2gKb9TiYQlld)
+[![View_Details](assets/img/View_details.png)](http://www.delhimetrorail.com/press_reldetails.aspx?id=Zi2gKb9TiYQlld)
 
-<center><img src="https://github.com/deepak10rawat/minimal/blob/master/assets/img/CBTC.png"/></center>
+<center><img src="assets/img/CBTC.png"/></center>
 
 
 
@@ -26,9 +26,9 @@ MFRS enables soldiers to record, lay and later safely retrieve land mines. The s
 
 > accuracy of <10 cm with GNSS using RTK engine
 
-[![View_Details](https://github.com/deepak10rawat/minimal/blob/master/assets/img/View_details.png)](https://www.makeinindiadefence.gov.in/admin/writereaddata/upload/project/prebid_file/Questionnarre_for_GPS_GIS_system.pdf)
+[![View_Details](assets/img/View_details.png)](https://www.makeinindiadefence.gov.in/admin/writereaddata/upload/project/prebid_file/Questionnarre_for_GPS_GIS_system.pdf)
 
-<center><img src="https://github.com/deepak10rawat/minimal/blob/master/assets/img/MFRS.jpg"/></center>
+<center><img src="assets/img/MFRS.jpg"/></center>
 
 
 
@@ -38,7 +38,7 @@ HHTI with LRF is a cooled TI based integrated day/night vision device with in-bu
 > This equipment is capable of giving range, azimuth & elevation and also coordinates of the target. This is highly useful to Army and Navy for effective engagement of targets.
 and provides detection Range upto 8Km Line of Sight.
 
-[![View_Details](https://github.com/deepak10rawat/minimal/blob/master/assets/img/View_details.png)](https://www.bel-india.in/Products.aspx?MId=13&LId=1&link=67)
+[![View_Details](assets/img/View_details.png)](https://www.bel-india.in/Products.aspx?MId=13&LId=1&link=67)
 
-<center><img src="https://github.com/deepak10rawat/minimal/blob/master/assets/img/HHTI-with-LRF.jpg"/></center>
+<center><img src="assets/img/HHTI-with-LRF.jpg"/></center>
 
